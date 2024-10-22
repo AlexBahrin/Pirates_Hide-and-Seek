@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1702920736 source:c:\users\alexandru\documents\pirateshideandseek\main.cpp
+	<iostream>
+	"sl.h"
+	<windows.h>
+
+1702380636 >
+
+1478944320 c:\users\alexandru\documents\pirateshideandseek\include\sl.h
+
+1702391046 source:/Volumes/.PEVolumes/PEVolume{6ce8c21d-5bc6-45a5-ae33-f1986b682435}/Users/alexandru/Documents/PiratesHideAndSeek/main.cpp
+	<iostream>
+	"sl.h"
+	<windows.h>
+
+1703169840 source:d:\pirateshideandseek\main.cpp
+	<iostream>
+	"sl.h"
+	<windows.h>
+	<mmsystem.h>
+	<cstdlib>
+	<time.h>
+
+1478944320 d:\pirateshideandseek\include\sl.h
+
